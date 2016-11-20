@@ -1,0 +1,6 @@
+# Ignore everything, so all repositories in our case
+*
+
+# But no these files
+!.projects.gws
+!.gitignore
