@@ -4,3 +4,7 @@
 # But no these files
 !.projects.gws
 !.gitignore
+!.env
+!uncrustify.cfg
+!Makefile
+!README.md
